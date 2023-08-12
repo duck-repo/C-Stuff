@@ -1,1 +1,1 @@
-Personal repo for C stuff. For purpose of learning C
+Personal repo. For purpose of learning C
