@@ -1,3 +1,5 @@
+//Good old hello world.
+
 #include <stdio.h>
 
 main()
