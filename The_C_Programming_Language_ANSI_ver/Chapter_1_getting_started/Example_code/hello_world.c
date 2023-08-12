@@ -4,5 +4,13 @@
 
 main()
 {
-printf("hello, world\n");    
+    //First Example:
+    printf("hello, world\n");
+
+    //Different Example:
+    printf("hola, ");
+    printf("wolrd");
+    printf("\n");
+
+    //newline character is "\n"
 }
